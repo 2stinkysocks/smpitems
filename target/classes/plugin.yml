@@ -1,0 +1,7 @@
+name: smpitems
+main: com.twostinkysocks.smpitems.Main
+version: 1.0
+api-version: 1.17
+commands:
+  cgive:
+    usage: /<command>
